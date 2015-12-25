@@ -21,7 +21,7 @@
     ASNetworkImageNode *imageNode = [[ASNetworkImageNode alloc] init];
     imageNode.backgroundColor = [UIColor grayColor];
     imageNode.URL = [NSURL URLWithString:@"https://www.baidu.com/img/new270_b73d6c185c79510f76f7122fb472b97d.png"];
-    [imageNode setFrame:CGRectMake(0, 0, 200, 200)];
+    [imageNode setFrame:CGRectMake(0, 0, 300, 300)];
     [self.view addSubnode:imageNode];
     
     // Do any additional setup after loading the view, typically from a nib.

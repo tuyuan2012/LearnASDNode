@@ -18,7 +18,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="e4f-AR-CYA">
-                                <rect key="frame" x="283" y="354" width="34" height="30"/>
+                                <rect key="frame" x="248" y="370" width="34" height="30"/>
                                 <state key="normal" title="push"/>
                                 <connections>
                                     <action selector="pushToController:" destination="5kW-IV-5ae" eventType="touchUpInside" id="hFj-fA-ErJ"/>
